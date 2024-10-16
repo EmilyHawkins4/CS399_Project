@@ -289,4 +289,4 @@ class Earring {
     public String getImagePath() {
         return imagePath;
     }
-}
+} 
